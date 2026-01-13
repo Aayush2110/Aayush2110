@@ -1,7 +1,7 @@
-
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" width="30px">, I'm Aayush Shinde
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">, I'm Aayush Shinde
 </h1>
+
 
 <h3 align="center">I love creating new things ⚡</h3>
 
