@@ -2,18 +2,21 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">, I'm Aayush Shinde
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com
   ?font=Fira+Code
-  &size=20
+  &size=22
   &pause=900
-  &color=8B5CF6
+  &color=8A2BE2
   &center=true
   &vCenter=true
-  &width=650
-  &lines=I+love+creating+new+things+⚡;Turning+imagination+into+reality+🚀;" />
+  &width=600
+  &lines=I+love+creating+new+things+⚡;
+  Turning+imagination+into+reality+🚀;
+  AI+%26+Data+Science+Engineer;
+  Python+%7C+Web+%7C+Automation" />
 </p>
+
 
 
 
