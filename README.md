@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Aayush Shinde</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" width="30px">, I'm Aayush Shinde
+</h1>
+
 <h3 align="center">I love creating new things ⚡</h3>
 
 <p align="center">
