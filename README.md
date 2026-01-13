@@ -3,11 +3,11 @@
 </h1>
 
 
-<h3 align="center">I love creating new things ⚡</h3>
+<h3 align="center">
+  <span style="color:#00F5A0;">I love creating new things ⚡</span><br/>
+  <span style="color:#00C2FF;">Turning imagination into reality 🚀</span>
+</h3>
 
-<p align="center">
-Turning imagination into reality 🚀
-</p>
 
 <p align="center">
   <a href="https://aayush-s-digital-showcase.vercel.app">
