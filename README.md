@@ -13,10 +13,8 @@ Turning imagination into reality 🚀
   <a href="https://aayush-s-digital-showcase.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" />
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  
+  <a href="https://linkedin.com/in/aayushshinde/">
     <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge" />
   </a>
 </p>
