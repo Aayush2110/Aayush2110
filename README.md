@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=I+love+creating+new+things+⚡;Turning+imagination+into+reality+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Turning+imagination+into+reality+🚀" />
 </p>
 
 
