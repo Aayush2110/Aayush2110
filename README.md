@@ -3,10 +3,18 @@
 </h1>
 
 
-<h3 align="center">
-  <span style="color:#00F5A0;">I love creating new things ⚡</span><br/>
-  <span style="color:#00C2FF;">Turning imagination into reality 🚀</span>
-</h3>
+<<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &size=20
+  &pause=900
+  &color=8B5CF6
+  &center=true
+  &vCenter=true
+  &width=650
+  &lines=I+love+creating+new+things+⚡;Turning+imagination+into+reality+🚀;" />
+</p>
+
 
 
 <p align="center">
