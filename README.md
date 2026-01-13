@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=I+love+creating+new+things+⚡;Turning+imagination+into+reality+🚀;AI+%26+Data+Science+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=I+love+creating+new+things+⚡;Turning+imagination+into+reality+🚀" />
 </p>
+
 
 
 
