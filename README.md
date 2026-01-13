@@ -82,7 +82,7 @@ B2B industrial website using React.js and Tailwind CSS with responsive design an
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-black?style=for-the-badge&logo=openai)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
 
 ---
 
