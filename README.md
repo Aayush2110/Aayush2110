@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aayush Shinde</h1>
+<h3 align="center">I love creating new things ⚡</h3>
 
-<!--
-**Aayush2110/Aayush2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Turning imagination into reality 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🎓 Final Year Engineering Student (AI & Data Science)
+- 🚀 Building real-world projects in Python & Data Science
+- 📊 Creator of **YouTube Trend Analyzer**
+- 🌱 Currently learning **ML, Web & System Design**
+
+---
+
+## 🚀 Creations
+
+### 🔹 YouTube Trend Analyzer
+📊 Python + Data Science project that analyzes trending YouTube videos.
+
+### 🔹 AI Content Automation System
+🤖 Automated content generation using OpenAI + NLP.
+
+### 🔹 Portfolio Website
+🌐 Personal portfolio built with React & Tailwind.
+
+---
+
+## 🛠️ Tech Stack
+<h1 align="center">Hi 👋, I'm Aayush Shinde</h1>
+<h3 align="center">I love creating new things ⚡</h3>
+
+<p align="center">
+Turning imagination into reality 🚀
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Final Year Engineering Student (AI & Data Science)
+- 🚀 Building real-world projects in Python & Data Science
+- 📊 Creator of **YouTube Trend Analyzer**
+- 🌱 Currently learning **ML, Web & System Design**
+
+---
+
+## 🚀 Creations
+
+### 🔹 YouTube Trend Analyzer
+📊 Python + Data Science project that analyzes trending YouTube videos.
+
+### 🔹 AI Content Automation System
+🤖 Automated content generation using OpenAI + NLP.
+
+### 🔹 Portfolio Website
+🌐 Personal portfolio built with React & Tailwind.
+
+---
+
+## 🛠️ Tech Stack
+
