@@ -22,23 +22,22 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final Year Engineering Student (AI & Data Science)
-- 🚀 Building real-world projects in Python & Data Science
-- 📊 Creator of **YouTube Trend Analyzer**
-- 🌱 Currently learning **ML, Web & System Design**
-
+- 🎓 AI & Data Science Engineering Student
+- 💻 Full-Stack Developer
+- ⚙️ Built AI-driven and web applications
+- ☁️ Learning Cloud & scalable systems
 ---
 
 ## 🚀 Creations
 
-### 🔹 YouTube Trend Analyzer
-📊 Python + Data Science project that analyzes trending YouTube videos.
+### 🔹CraftWorksPro– Automated Content Creation System
+AI-based system that automates content and image creation using OpenAI and NLP.
 
-### 🔹 AI Content Automation System
-🤖 Automated content generation using OpenAI + NLP.
+### 🔹 Library Management System using Collaborative Filtering
+Django-based library system with collaborative filtering recommendations and a responsive UI.
 
-### 🔹 Portfolio Website
-🌐 Personal portfolio built with React & Tailwind.
+### 🔹 Siddhivinayak Enterprises– Industrial Solutions Website
+B2B industrial website using React.js and Tailwind CSS with responsive design and SEO-friendly structure.
 
 ---
 
