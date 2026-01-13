@@ -57,6 +57,7 @@ Turning imagination into reality 🚀
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 
 ---
 
@@ -69,6 +70,12 @@ Turning imagination into reality 🚀
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+---
+
+### 🎨 Design / Visual Tools
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
 
 ---
 
