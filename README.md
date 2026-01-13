@@ -10,7 +10,7 @@ Turning imagination into reality 🚀
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://aayush-s-digital-showcase.vercel.app/)">
     <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" />
   </a>
   <a href="https://github.com/yourusername">
