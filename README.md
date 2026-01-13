@@ -90,4 +90,7 @@ Turning imagination into reality 🚀
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
+## Thanks for Visiting my GitHub Profile!
+
+![snake gif](https://github.com/Aayush2110/Aayush2110/blob/output/github-contribution-grid-snake.svg)
 
