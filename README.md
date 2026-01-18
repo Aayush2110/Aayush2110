@@ -10,22 +10,27 @@
 
 
 <p align="center">
-  <a href="https://aayush-s-digital-showcase.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" />
-  </a>
-  
-  <a href="https://linkedin.com/in/aayushshinde/">
-    <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge" />
+   <a href="https://aayush-s-digital-showcase.vercel.app" target="_blank">
+   <img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" />
+   </a>
+
+  <a href="https://linkedin.com/in/aayushshinde/" target="_blank">
+  <img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" />
   </a>
 </p>
 
 ---
-
 ## 👨‍💻 About Me
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh0c3BuMTh6MTcwNGdrc3J0cWcybjF2dmlwZnRydTAwd3BldDJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="150">
+
 - 🎓 AI & Data Science Engineering Student
 - 💻 Full-Stack Developer
 - ⚙️ Built AI-driven and web applications
 - ☁️ Learning Cloud & scalable systems
+
+<br clear="both"/>
+
 ---
 
 ## 🚀 Creations
