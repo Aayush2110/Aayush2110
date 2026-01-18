@@ -95,5 +95,5 @@ B2B industrial website using React.js and Tailwind CSS with responsive design an
 ---
 
 <p align="center">
-<img src="https://github.com/Aayush2110/Aayush2110/blob/master/github-user-contribution.svg">
+<img src="https://github.com/Aayush2110/Aayush2110/blob/main/github-user-contribution.svg">
 </p>
