@@ -110,24 +110,4 @@ An AI-based system for real-time industrial monitoring using edge–cloud archit
 <p align="center">
 <img src="https://github.com/Aayush2110/Aayush2110/blob/main/github-user-contribution.svg">
 </p>
-
----
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-black?style=for-the-badge&logo=openai)
-
-
----
-
-### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-## Thanks for Visiting my GitHub Profile!
-
----
-
-<p align="center">
-<img src="https://github.com/Aayush2110/Aayush2110/blob/main/github-user-contribution.svg">
-</p>
+<!-- END OF FILE — do not add anything below this line -->
